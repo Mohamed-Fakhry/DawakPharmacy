@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Dawak Pharmacy</string>
+    <string name="some_error">Something went wrong</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="message_to_make_sign_up">Don\'t have account?</string>
+    <string name="error_sign_up">Error in Sign up please check entery data</string>
+    <string name="error_no_iternet_connection">Check internet connection</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="domain_email">\@dawak.com</string>
+    <string name="hint_pharmacy_name">Pharmacy Name</string>
+    <string name="openTime">Open Time</string>
+    <string name="closeTime">Close Time</string>
+    <string name="hint_pharmacy_phone">Phone</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="error_invalid_email">Invailde email</string>
+    <string name="error_email_required">Email is required</string>
+    <string name="error_password_empty">Please enter your password</string>
+    <string name="error_pharmacy_name_empty">Pharmacy name is required</string>
+    <string name="quantity">Quantity</string>
+    <string name="available">Available</string>
+    <string name="not_available">Not available</string>
+</resources>
